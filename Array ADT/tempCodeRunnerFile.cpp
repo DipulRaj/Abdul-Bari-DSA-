@@ -1,0 +1,1 @@
+cout<<binarySearch(arr, 17)<<endl;
