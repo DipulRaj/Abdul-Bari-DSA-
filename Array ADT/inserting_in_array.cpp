@@ -41,4 +41,5 @@ int main(){
     // append(&arr, 20);
     insert(&arr, 2, 78);
     display(arr);
+
 }
